@@ -1,0 +1,7 @@
+Tasks 
+1. Submit the code for a working basic project prototype, that works on the specified data-set, with unit test code, including source code documentation (programmer comments within the source code files). 
+
+2. Write a Technical Report, including cover sheet, that details what parts of your program demonstrate: • Variables: declaration, assignment, operators etc. • Memory Management (Stack, Heap, References, Pointers, Allocation, Deallocation etc.) • If memory is automatically managed in your language document it. • Decision Structures • Looping Structures • Methods / Functions as well as Classes / Objects / Structs / Modules etc. • Exception handling • File IO (either text or binary information saved to / read from a file on a hard-disk) • Use of API libraries that come with the language as a standard API • Unit Testing • Also indicate what feature related to project scope has initially been implemented. 
+
+3. Prepare 2 brief portfolio documents with screen shots of 1) your program and 2) unit tests running • The program portfolio document screen shots should be just of your program, not the IDE • Provide brief descriptions of each screen shot on what they demonstrate regarding the programs functionality • The unit testing screen shot should be taken to include the IDE, to show that at least one test has been run successfully. 
+ 
