@@ -1,0 +1,17 @@
+/* 
+File: style.css
+Author: Seokhwan Lee
+Date: Nov 29, 2017 
+Description: css file.
+*/
+table thead tr .text-center{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 20px;
+}
+
+#footer{
+    position:fixed;
+    color: rgb(0, 0, 0);
+    border-top: 3px double rgb(34, 40, 43) ;
+
+}
